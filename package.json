@@ -1,0 +1,20 @@
+{
+  "name": "node-server-assignment",
+  "version": "1.0.0",
+  "description": "assignment for browserstack",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithnick/Node-server-assignment.git"
+  },
+  "author": "codewithnick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithnick/Node-server-assignment/issues"
+  },
+  "homepage": "https://github.com/codewithnick/Node-server-assignment#readme"
+}
